@@ -1,0 +1,1 @@
+console.log("arquivo do usuario consorcio")
